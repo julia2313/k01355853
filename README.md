@@ -12,6 +12,6 @@ Quelle Link: https://de.wikipedia.org/wiki/Urfahr
 
 
 
-![Alt text](C:\Users\julia\OneDrive\Uni\Master 3. Semester\CE UE\GitHub\k01355853\linz.jpg)
+![Linz](linz.jpg)
 
 
