@@ -11,7 +11,6 @@ Umgangssprachlich werden oft alle noerdlich der Donau gelegenen Stadtteile von L
 Quelle Link: https://de.wikipedia.org/wiki/Urfahr
 
 
-
 ![Linz](linz.jpg)
 
 
